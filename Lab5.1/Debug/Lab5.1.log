@@ -1,0 +1,2 @@
+﻿  Lab5.1.cpp
+C:\Users\Admin\source\repos\Lab5.1\Lab5.1\Lab5.1.cpp(13,69): error C2296: '*': illegal, left operand has type 'double (__cdecl *)(const double,const double,const double)'
